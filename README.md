@@ -20,7 +20,7 @@ This repository contains beginner-level solutions to common arithmetic problems,
 
 ## How to Use
 - Clone the repository:
-
+```bash
   git clone https://github.com/SaminJawad/CSE-103-Basic-Arithmetic_problems.git
 
 ## Navigate to the folder for each problem and compile the code using a C compiler. For example:
