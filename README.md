@@ -18,15 +18,6 @@ This repository contains beginner-level solutions to common arithmetic problems,
 9. **Movie Running Time Calculation**: Input hours and minutes, output total minutes and fractional hours.
 10. **Ratio Calculation**: Input four numbers, find the ratio between differences of two pairs.
 
-## How to Use
-- Clone the repository:
-```bash
-  git clone https://github.com/SaminJawad/CSE-103-Basic-Arithmetic_problems.git
-
-## Navigate to the folder for each problem and compile the code using a C compiler. For example:
-gcc Problem1.c -o Problem1
-./Problem1
-
 
 ## About
   These solutions are designed for foundational practice with C programming. They showcase simple arithmetic operations and demonstrate how to work with variables, user input, and calculations.
